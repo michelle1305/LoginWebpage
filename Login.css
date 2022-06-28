@@ -1,0 +1,72 @@
+*. {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.container {
+    margin: 0;
+    /* padding: 50px 100px 20px 100px; */
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to top, #dd33ff, #ffbe33);
+    align-content: center;
+}
+
+.img {
+    width: 50%;
+    position: relative;
+}
+
+.login-container {
+    align-items: center;
+    border: 20px #fff000;
+    background: #fff000;
+}
+
+.username-div {
+    align-content: center;
+    margin-left: 200px;
+    padding: 10px;
+    font-size: x-large;
+    font-family: Georgia;
+}
+
+.input-name {
+    font-size: x-large;
+    color: blue;
+}
+
+.input-pass {
+    font-size: x-large;
+    color: blue;
+}
+
+.password-div {
+    background-color: bisque;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    font-size: x-large;
+    font-family: Georgia;
+}
+
+#greet {
+    align-self: center;
+    font-style: normal;
+    font: 200;
+}
+
+.submit {
+    margin-top: 50px;
+    margin-left: 250px;
+    position: relative;
+}
+
+.sb-btn {
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
